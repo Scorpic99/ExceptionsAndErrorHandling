@@ -1,0 +1,3 @@
+﻿  Task_1_Simple_exception.cpp
+D:\jast do it\C++\ExceptionsAndErrorHandling\Task_1_Simple_exception\Task_1_Simple_exception\Task_1_Simple_exception.cpp(7,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Task_1_Simple_exception.vcxproj -> D:\jast do it\C++\ExceptionsAndErrorHandling\Task_1_Simple_exception\x64\Debug\Task_1_Simple_exception.exe

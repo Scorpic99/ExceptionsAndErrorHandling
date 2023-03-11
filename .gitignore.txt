@@ -1,0 +1,9 @@
+Task_1_Simple_exception/.vs/*
+Task_1_Simple_exception/x64/*
+Task_1_Simple_exception/Task_1_Simple_exception/Task_1_Simple_exception.vcxproj.user
+Task_1_Simple_exception/Task_1_Simple_exception/x64/*
+Task2_Exseption_in_constructor/.vs/*
+Task2_Exseption_in_constructor/x64/*
+Task2_Exseption_in_constructor/Task2_Exseption_in_constructor/Task2_Exseption_in_constructor.vcxproj.user
+Task2_Exseption_in_constructor/Task2_Exseption_in_constructor/x64/*
+Task_2_Exseption_in_constructor/*
